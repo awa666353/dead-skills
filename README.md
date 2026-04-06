@@ -1,8 +1,10 @@
 <div align="center">
 
+<div align="center">
+
 # 逝者.skill
 
-> *「与其只蒸馏自己——也可以把爱与记忆，蒸馏成可读的 TA。」*
+> “人会离开，但那些语气、习惯、故事与爱，不必一起消失。”
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
@@ -11,15 +13,40 @@
 
 <br>
 
-架构对齐 **[yourself-skill](./yourself-skill)**：那里是把 **自己** 蒸馏成可对话的结构，<br>
-这里是把 **已逝亲友** 的生平与口吻，整理成 **Part A — Life Memory + Part B — Persona**。<br>
-材料进 `life.md` + `persona.md`，再合并为可被 `/{slug}` 调用的 **`SKILL.md`**——<br>
-用途限于 **私人追思与家族史**，带 **伦理 Layer 0**，不用于冒充在世者。
+你是否也有一个，再也无法当面说话的人？  
+他的口头禅、语气和习惯，正在一点一点变模糊？  
+家里留下了很多照片、聊天记录、书信，却始终拼不成完整的 TA？  
+后辈想了解这个人，却只剩下零散的回忆与含糊的讲述？  
+你想留下的不只是资料，而是一个“还能被重新感受到的人”？
+
+**将冰冷的失去化为可读的记忆，欢迎加入赛博追思。**
+
+<br>
+
+提供逝者的原材料（聊天记录、书信、日记、录音、照片、家属回忆）  
+再加上你的主观补充与人工校对  
+生成一个用于私人追思与家庭记忆整理的 AI Skill  
+让 TA 的人生经历、表达方式与情感脉络，被温柔地保存下来
+
+<br>
+
+架构参考 **[yourself-skill](./yourself-skill)**  
+那里是把 **自己** 蒸馏成可对话的结构  
+这里是把 **已逝亲友** 整理为 **Part A - Life Memory + Part B - Persona**  
+材料写入 `life.md` 与 `persona.md`  
+再合并为可被 `/{slug}` 调用的 **SKILL.md**
+
+<br>
+
+用途限于 **私人追思、家庭史整理与记忆保存**  
+默认带 **伦理 Layer 0**  
+**不用于冒充在世者，不用于替代真实关系，不用于商业化伪装**
+
+<br>
 
 [安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [English](README_EN.md) · [PRD](docs/PRD.md)
 
 </div>
-
 ---
 
 ## 安装
