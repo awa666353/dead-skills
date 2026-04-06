@@ -1,0 +1,22 @@
+{
+  "name": "外公（示例）",
+  "slug": "example_grandfather",
+  "kind": "memorial",
+  "created_at": "2026-04-06T00:00:00",
+  "updated_at": "2026-04-06T00:00:00",
+  "version": "v1",
+  "profile": {
+    "age": "享年示例",
+    "occupation": "退休教师（示例）",
+    "city": "苏州（示例）",
+    "relation_to_builder": "外孙/外孙女",
+    "birth_death_or_era": "示例年代"
+  },
+  "tags": {
+    "personality": ["寡言", "爱喝茶"],
+    "lifestyle": ["早起散步"]
+  },
+  "impression": "面子上硬、心里软；常说「算了算了」",
+  "memory_sources": ["口述示例，请替换为真实脱敏材料"],
+  "corrections_count": 0
+}
