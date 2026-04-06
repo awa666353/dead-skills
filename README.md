@@ -31,13 +31,6 @@
 <br>
 
 架构参考 **[yourself-skill](./yourself-skill)**  
-那里是把 **自己** 蒸馏成可对话的结构  
-这里是把 **已逝亲友** 整理为 **Part A - Life Memory + Part B - Persona**  
-材料写入 `life.md` 与 `persona.md`  
-再合并为可被 `/{slug}` 调用的 **SKILL.md**
-
-<br>
-
 用途限于 **私人追思、家庭史整理与记忆保存**  
 默认带 **伦理 Layer 0**  
 **不用于冒充在世者，不用于替代真实关系，不用于商业化伪装**
